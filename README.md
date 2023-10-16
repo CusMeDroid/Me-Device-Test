@@ -1,5 +1,5 @@
 # Me Device Test
-Me Device Test atau jika di artikan dalam bahasa indonesia ialah Test Perangkat Saya adalah sebuah aplikasi untuk sebuah informasi dari perangkat anda. aplikasi ini sangat cocok untuk anda yang ingin membeli handphone baru/bekas terlihat baru tanpa terkecoh dengan iming iming sang penjual, buktikan dengan menggunakan aplikasi Me Device Test.
+Me Device Test atau jika di artikan dalam bahasa indonesia ialah Test Perangkat Saya adalah sebuah aplikasi untuk sebuah informasi dari perangkat anda. aplikasi ini sangat cocok untuk anda yang ingin membeli handphone baru/bekas terlihat baru tanpa terkecoh dengan ucapan manis sang penjual, buktikan dengan menggunakan aplikasi Me Device Test.
 
 # Hastag
 [#medevicetest](https://cusmedroid.github.io/Me-Device-Test) [#me-device-test](https://cusmedroid.github.io/Me-Device-Test) [#phonetest](https://cusmedroid.github.io/Me-Device-Test) [#cusmedroid](https://cusmedroid.github.io/) [#cusme](https://cusmedroid.github.io/)
